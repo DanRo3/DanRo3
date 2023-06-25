@@ -1,6 +1,7 @@
 
-# Hi,I'm ***Daniel*** 👋
-## ***This is my github profile:*** 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Lora&pause=1000&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+programadores+soy+DanRo+%F0%9F%91%8B;Informatic+Science+Ingenier+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+</div>
 
 >- 🌱 I’m currently learning JAVA
 >- 👯 I’m looking to collaborate on ...
