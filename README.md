@@ -12,3 +12,6 @@
 >- 😄 Pronouns: ...
 >- ⚡ Fun fact: ...
 
+<div align=center>
+<a href="#"><img src="https://github.com/DanRo3/DanRo3/blob/main/giphy.gif"  width="70%" height="300"></a>
+</div>
