@@ -1,5 +1,5 @@
 <div align=center>
-<a href="#"><img src="https://github.com/DanRo3/DanRo3/blob/main/giphy.gif"  width="70%" height="300"></a>
+<a href="#"><img src="https://github.com/DanRo3/DanRo3/blob/main/up(1).gif"  width="50%" height="300"></a>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
