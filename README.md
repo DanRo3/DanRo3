@@ -8,7 +8,7 @@
 </div>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
->- 🌱 I’m currently learning **Django Python**
+>- 🌱 I’m currently learning **Javastcipt**
 >- 📫 How to reach me: **danromasterjob@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
