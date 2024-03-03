@@ -16,7 +16,7 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danro3" alt="danro3" />
+    <img src="https://github-profile-trophy.vercel.app/?username=danro3&theme=onedark" alt="danro3" />
 </a> 
 </p>
 
