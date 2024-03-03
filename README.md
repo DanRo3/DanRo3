@@ -13,12 +13,19 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
+
 <h3 align="left">Tools:</h3>
 
 <h3 align="left">Some statistics:</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=danro3&theme=radical&margin-w=15" alt="danro3" />
 </a> 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=danro3&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danro3&layout=compact" />
+</div>
+    
 </p>
 
 <div align=center>
