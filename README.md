@@ -14,12 +14,15 @@
 ___
 
 <h3 align="left">Languages:</h3>
+___
+
 <p align="left"> 
 
 <h3 align="left">Tools:</h3>
+___
 
 <h3 align="left">Some statistics:</h3>
-
+___
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=danro3&theme=radical&margin-w=15" alt="danro3" />
 </a> 
@@ -29,7 +32,7 @@ ___
 </div>
     
 </p>
-
+___
 <div align=center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
