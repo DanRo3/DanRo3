@@ -33,7 +33,7 @@ ___
 </div>    
 </p>
 
-<div align="center" margin="20"></div>
+<div align="center" margin-w="20"></div>
 
 ___
 
