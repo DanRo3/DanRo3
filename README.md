@@ -14,25 +14,29 @@
 ___
 
 <h3 align="left">Languages:</h3>
+
 ___
 
 <p align="left"> 
 
 <h3 align="left">Tools:</h3>
+
 ___
 
 <h3 align="left">Some statistics:</h3>
-___
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=danro3&theme=radical&margin-w=15" alt="danro3" />
 </a> 
-<div>
+<div align="center">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=danro3&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danro3&layout=compact" />
-</div>
-    
+</div>    
 </p>
+
+<div align="center"></div>
+
 ___
+
 <div align=center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +45,8 @@ ___
 <a href="https://fb.com/daniel rojas grass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel rojas grass" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/danro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="danro" height="30" width="40" /></a>
 </p>
+
+___
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/danro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/danro" /></a></p><br><br>
