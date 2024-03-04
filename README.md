@@ -28,7 +28,7 @@ ___
     <img src="https://github-profile-trophy.vercel.app/?username=danro3&theme=radical&margin-w=15" alt="danro3" />
 </a> 
 <div align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=danro3&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=danro3&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danro3&layout=compact" />
 </div>    
 </p>
