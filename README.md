@@ -14,13 +14,27 @@
 ___
 
 <h3 align="left">Languages:</h3>
+<div>
+    <img align="center" src="icons8-typescript-96.png" alt="typescript" height="60" width="60" />
+    <img align="center" src="javascript.png" alt="js" height="60" width="60" />
+    <img align="center" src="java.png" alt="java" height="60" width="60" />
+    <img align="center" src="python.png" alt="py" height="60" width="60" />
+    <img align="center" src="cplusplus.png" alt="cpp" height="60" width="60" />    
+</div>
+  
+___
 
-<img align="center" src="icons8-typescript-96.png" alt="typescript" height="60" width="60" />
+<h3 align="left">Frameworks:</h3>
+
+<div>
+    <img align="center" src="Next.js-900x0.png" alt="nextjs" height="60" width="90" />
+    <img align="center" src="react.png" alt="rjs" height="60" width="60" />    
+</div>
 
 ___
 
 <p align="left"> 
-
+    
 <h3 align="left">Tools:</h3>
 
 ___
