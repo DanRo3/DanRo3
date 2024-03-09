@@ -15,6 +15,8 @@ ___
 
 <h3 align="left">Languages:</h3>
 
+<img align="center" src="" alt="typescript" height="30" width="40" />
+
 ___
 
 <p align="left"> 
