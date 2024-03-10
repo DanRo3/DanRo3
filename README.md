@@ -23,33 +23,10 @@ ___
     <img align="center" src="html.png" alt="html" height="60" width="60" />    
     <img align="center" src="css.png" alt="css" height="60" width="60" />    
     <img align="center" src="icons8-xml-80.png" alt="xml" height="60" width="60" />    
-</div>
-  
-___
-
-<h3 align="left">Frameworks:</h3>
-
-<div>
     <img align="center" src="Next.js-900x0.png" alt="nextjs" height="60" width="90" />
     <img align="center" src="react.png" alt="rjs" height="60" width="60" />    
     <img align="center" src="OIP-removebg-preview.png" alt="odoo" height="60" width="80" />    
-</div>
-
-___
-
-<p align="left"> 
-    
-<h3 align="left">Libraries:</h3>
-<div>
     <img align="center" src="redux.png" alt="redux" height="60" width="60" />
-</div>
-
-___
-
-<p align="left"> 
-    
-<h3 align="left">Tools:</h3>
-<div>
     <img align="center" src="visual-studio-code.png" alt="vsc" height="60" width="60" />
     <img align="center" src="icons8-git-96.png" alt="git" height="60" width="60" />
     <img align="center" src="postgre.png" alt="postgre" height="60" width="60" />
