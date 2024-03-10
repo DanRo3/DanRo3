@@ -20,6 +20,9 @@ ___
     <img align="center" src="java.png" alt="java" height="60" width="60" />
     <img align="center" src="python.png" alt="py" height="60" width="60" />
     <img align="center" src="cplusplus.png" alt="cpp" height="60" width="60" />    
+    <img align="center" src="html.png" alt="html" height="60" width="60" />    
+    <img align="center" src="css.png" alt="css" height="60" width="60" />    
+    <img align="center" src="icons8-xml-80.png" alt="xml" height="60" width="60" />    
 </div>
   
 ___
@@ -29,6 +32,7 @@ ___
 <div>
     <img align="center" src="Next.js-900x0.png" alt="nextjs" height="60" width="90" />
     <img align="center" src="react.png" alt="rjs" height="60" width="60" />    
+    <img align="center" src="OIP-removebg-preview.png" alt="odoo" height="60" width="80" />    
 </div>
 
 ___
@@ -36,12 +40,27 @@ ___
 <p align="left"> 
     
 <h3 align="left">Libraries:</h3>
+<div>
+    <img align="center" src="redux.png" alt="redux" height="60" width="60" />
+</div>
 
 ___
 
 <p align="left"> 
     
 <h3 align="left">Tools:</h3>
+<div>
+    <img align="center" src="visual-studio-code.png" alt="vsc" height="60" width="60" />
+    <img align="center" src="icons8-git-96.png" alt="git" height="60" width="60" />
+    <img align="center" src="postgre.png" alt="postgre" height="60" width="60" />
+    <img align="center" src="ant desing.png" alt="antd" height="60" width="60" />
+    <img align="center" src="tailwind.png" alt="tailwing" height="60" width="60" />
+    <img align="center" src="sass.png" alt="sass" height="60" width="60" />
+    <img align="center" src="bootstrap.png" alt="b" height="60" width="60" /> 
+    <img align="center" src="NetBeans.png" alt="b" height="ntb" width="60" /> 
+    <img align="center" src="icons8-amazon-web-services-96.png" alt="aws" height="ntb" width="60" />    
+</div>
+
 
 ___
 
