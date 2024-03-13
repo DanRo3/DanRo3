@@ -13,7 +13,7 @@
 
 ___
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Skills:</h3>
 <div>
     <img align="center" src="icons8-typescript-96.png" alt="typescript" height="60" width="60" />
     <img align="center" src="javascript.png" alt="js" height="60" width="60" />
