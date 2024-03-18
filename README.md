@@ -24,8 +24,7 @@ ___
     <img align="center" src="css.png" alt="css" height="60" width="60" />    
     <img align="center" src="icons8-xml-80.png" alt="xml" height="60" width="60" />    
     <img align="center" src="Next.js-900x0.png" alt="nextjs" height="60" width="90" />
-    <img align="center" src="react.png" alt="rjs" height="60" width="60" />    
-    <img align="center" src="OIP-removebg-preview.png" alt="odoo" height="60" width="80" />    
+    <img align="center" src="react.png" alt="rjs" height="60" width="60" />       
     <img align="center" src="redux.png" alt="redux" height="60" width="60" />
     <img align="center" src="visual-studio-code.png" alt="vsc" height="60" width="60" />
     <img align="center" src="icons8-git-96.png" alt="git" height="60" width="60" />
@@ -60,8 +59,8 @@ ___
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/daniel-rojas-grass-5a7b67257" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daniel-rojas-grass-5a7b67257" height="30" width="40" /></a>
-<a href="https://fb.com/daniel rojas grass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel rojas grass" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/danro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="danro" height="30" width="40" /></a>
+
+
 </p>
 
 ___
