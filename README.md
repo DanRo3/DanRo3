@@ -59,14 +59,6 @@ ___
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/daniel-rojas-grass-5a7b67257" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daniel-rojas-grass-5a7b67257" height="30" width="40" /></a>
-
-
 </p>
-
-___
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/danro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/danro" /></a></p><br><br>
-
-
+<h1 align="center">Daniel Rojas Grass 2024</h1>
 </div>
