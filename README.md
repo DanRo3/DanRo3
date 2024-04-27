@@ -21,7 +21,8 @@ ___
     <img align="center" src="python.png" alt="py" height="60" width="60" />
     <img align="center" src="cplusplus.png" alt="cpp" height="60" width="60" />    
     <img align="center" src="html.png" alt="html" height="60" width="60" />    
-    <img align="center" src="css.png" alt="css" height="60" width="60" />        
+    <img align="center" src="css.png" alt="css" height="60" width="60" />
+    <img align="center" src="icons8-figma-96.png" alt="figma" height="60" width="60" />
     <img align="center" src="Next.js-900x0.png" alt="nextjs" height="60" width="90" />
     <img align="center" src="react.png" alt="rjs" height="60" width="60" />       
     <img align="center" src="visual-studio-code.png" alt="vsc" height="60" width="60" />
