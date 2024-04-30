@@ -52,6 +52,21 @@ ___
 ___
 
 <div align=center>
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=danro3&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    
+</div>
+
+
+<br>
+<h3> Visitors counter </h3>
+<p>
+  <a href="https://github.com/ParthGohil21/github-profile-count">
+    <img align="center" src="https://profile-counter.glitch.me/{danro3}/count.svg" />
+    </a>
+</p>
+
+<div align=center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/daniel-rojas-grass-5a7b67257" target="blank">
