@@ -31,7 +31,9 @@ ___
     <img align="center" src="ant desing.png" alt="antd" height="60" width="60" />
     <img align="center" src="tailwind.png" alt="tailwing" height="60" width="60" />
     <img align="center" src="bootstrap.png" alt="b" height="60" width="60" /> 
-    <img align="center" src="NetBeans.png" alt="b" height="ntb" width="60" />   
+    <img align="center" src="NetBeans.png" alt="b" height="ntb" width="60" /> 
+    <img align="center" src="icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-100.png" alt="b" height="ntb" width="60" />
+    
 </div>
 
 
