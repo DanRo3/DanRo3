@@ -8,7 +8,7 @@
 </div>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
->- 🌱 I’m currently learning **React TS**
+>- 🌱 I’m currently learning **DJANGO REST FRAMEWORK**
 >- 📫 How to reach me: **drgrassnk445@gmail.com**
 
 ___
