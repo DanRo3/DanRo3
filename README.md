@@ -8,7 +8,7 @@
 </div>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
->- 🌱 I’m currently on the road to becoming a Data Scientist
+>- 🌱 I’m currently on the road to becoming a Data Scientist 🚀✨💻
 >- 📫 How to reach me: **drgrassnk445@gmail.com**
 
 ___
