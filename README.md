@@ -10,15 +10,9 @@
 
 <img src="/Images/line-neon.gif" width="100%">
 
-<div align="center">
+<div>
   <p>
-    Hi there! I'm <strong>DanRo</strong>, an Informatics Science Engineer with a strong foundation in <strong>Frontend Development</strong> and a growing expertise in intelligent systems.
-  </p>
-  <p>
-    I specialize in designing and implementing <strong>Multi-Agent Systems (MAS)</strong>, where autonomous agents collaborate to solve complex problems. I also build <strong>RAG (Retrieval-Augmented Generation)</strong> systems powered by Large Language Models (LLMs), combining structured and unstructured data to deliver smart, contextual responses.
-  </p>
-  <p>
-    Currently, I'm expanding my skills in <strong>Data Science</strong> to further enhance the analytical power of the systems I develop.
+    Hi there! I'm <strong>DanRo</strong>, an Informatics Science Engineer with a strong foundation in <strong>Frontend Development</strong> and a growing expertise in intelligent systems. I specialize in designing and implementing <strong>Multi-Agent Systems (MAS)</strong>, where autonomous agents collaborate to solve complex problems. I also build <strong>RAG (Retrieval-Augmented Generation)</strong> systems powered by Large Language Models (LLMs), combining structured and unstructured data to deliver smart, contextual responses. Currently, I'm expanding my skills in <strong>Data Science</strong> to further enhance the analytical power of the systems I develop.
   </p>
   <p>
     📫 Reach me at: <strong>danrodeveloper@outlook.com</strong>
@@ -48,7 +42,7 @@
 
 <div align="center">
 
-**Lenguajes de Programación:**
+**Programming languages:**
 
   <p>
       <img src="/Images/pyhton.png" alt="Python" width="50" height="50"/>
