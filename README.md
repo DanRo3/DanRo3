@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://github.com/DanRo3/DanRo3/blob/main/fondo.png" alt="Banner Profile" width="100%"></a>
+  <a href="#"><img src="./Images/fondo.png" alt="Banner Profile" width="100%"></a>
 </div>
 
 <img src="/Images/line-neon.gif" width="100%">
