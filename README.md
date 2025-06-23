@@ -25,22 +25,22 @@
   </p>
 </div>
 
-
 ---
 
 ## 🚀 Expertise: Multi-Agent Systems (MAS)
 
-*   Architecting collaborative and autonomous agent behaviors.
-*   Implementing communication and coordination protocols between agents.
-*   Leveraging Large Language Models (LLMs) and their APIs to enhance agent intelligence and interaction.
-*   Developing and simulating complex scenarios for agent-based modeling.
+- Architecting collaborative and autonomous agent behaviors.
+- Implementing communication and coordination protocols between agents.
+- Leveraging Large Language Models (LLMs) and their APIs to enhance agent intelligence and interaction.
+- Developing and simulating complex scenarios for agent-based modeling.
 
 **Key Tools & Frameworks I work with:**
-*   **Langchain** & **LangGraph** for building contextual AI applications and agentic workflows.
-*   **OpenAI API** (GPT models) for advanced natural language understanding and generation.
-*   **Gemini API** (Google AI) for multimodal and cutting-edge generative AI capabilities.
-*   **Google's Agents Development Kit (ADK)** for creating robust and scalable agent solutions.
-*   Python (with core AI/ML libraries) for agent logic and intelligence.
+
+- **Langchain** & **LangGraph** for building contextual AI applications and agentic workflows.
+- **OpenAI API** (GPT models) for advanced natural language understanding and generation.
+- **Gemini API** (Google AI) for multimodal and cutting-edge generative AI capabilities.
+- **Google's Agents Development Kit (ADK)** for creating robust and scalable agent solutions.
+- Python (with core AI/ML libraries) for agent logic and intelligence.
 
 ---
 
@@ -48,7 +48,8 @@
 
 <div align="center">
 
-  **Lenguajes de Programación:**
+**Lenguajes de Programación:**
+
   <p>
       <img src="/Images/pyhton.png" alt="Python" width="50" height="50"/>
       <img src="/Images/typescript.png" alt="TypeScript" width="50" height="50"/>
@@ -57,68 +58,53 @@
       <img src="/Images/cplusplus.png" alt="C++" width="50" height="50"/>
   </p>
 
-  **Frontend Development:**
+**Frontend Development:**
+
   <p>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" style="background-color: white; border-radius: 5px;"/></a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/></a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/></a>
-      <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="50" height="50"/></a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/></a>
+      <img src="/Images/html.png" alt="HTML5" width="50" height="50"/>
+      <img src="/Images/css.png" alt="CSS3" width="50" height="50"/>
+      <img src="/Images/react.png" alt="React" width="50" height="50"/>
+      <img src="/Images/Next.js-900x0.png" alt="Next.js" width="50" height="50""/>
+      <img src="/Images/tailwind.png" alt="TailwindCSS" width="50" height="50"/>
+      <img src="/Images/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
+      <img src="/Images/ant desing.png" alt="Ant Design" width="50" height="50"/>
+      <img src="/Images/gradio-color.png" alt="Gradio" width="50" height="50"/>
   </p>
 
-  **🤖 Multi-Agent Systems & AI:**
-  <div style="text-align: center;"> <!-- Contenedor para centrar las cards -->
-      <!-- Card para Langchain -->
-      <div style="display: inline-block; border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 8px; text-align: center; vertical-align: top; width: 120px; background-color: #2c2c2c;">
-          <a href="https://www.langchain.com/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/libs/langchain/langchain/static/img/langchain_logo_var_dark%20Synthwave.png" alt="Langchain" width="50" height="50" style="border-radius: 5px; margin-bottom: 5px;"><br>
-              <span style="font-size: 0.9em; color: #6FDA44;">Langchain</span>
-          </a>
-      </div>
-      <!-- Card para LangGraph -->
-      <div style="display: inline-block; border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 8px; text-align: center; vertical-align: top; width: 120px; background-color: #2c2c2c;">
-          <a href="https://github.com/langchain-ai/langgraph" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/libs/langchain/langchain/static/img/langchain_logo_var_dark%20Synthwave.png" alt="LangGraph" width="50" height="50" style="filter: hue-rotate(90deg); border-radius: 5px; margin-bottom: 5px;"><br>
-              <span style="font-size: 0.9em; color: #6FDA44;">LangGraph</span>
-          </a>
-      </div>
-      <!-- Card para OpenAI API -->
-      <div style="display: inline-block; border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 8px; text-align: center; vertical-align: top; width: 120px; background-color: #2c2c2c;">
-          <a href="https://openai.com/api/" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI API" width="50" height="50" style="margin-bottom: 5px;"><br>
-              <span style="font-size: 0.9em; color: #6FDA44;">OpenAI API</span>
-          </a>
-      </div>
-      <!-- Card para Gemini API -->
-      <div style="display: inline-block; border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 8px; text-align: center; vertical-align: top; width: 120px; background-color: #2c2c2c;">
-          <a href="https://ai.google.dev/docs/gemini_api_overview" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Gemini API (Google AI)" width="50" height="50" style="margin-bottom: 5px;"><br>
-              <span style="font-size: 0.9em; color: #6FDA44;">Gemini API</span>
-          </a>
-      </div>
-      <!-- Card para Google's Agents Development Kit -->
-      <div style="display: inline-block; border: 1px solid #444; border-radius: 8px; padding: 15px; margin: 8px; text-align: center; vertical-align: top; width: 120px; background-color: #2c2c2c;">
-          <a href="https://developers.google.com/assistant/conversational/overview?hl=en" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Agents Dev Kit" width="50" height="50" style="margin-bottom: 5px;"><br>
-              <span style="font-size: 0.9em; color: #6FDA44;">Google ADK</span>
-          </a>
-      </div>
-  </div>
+**🤖 Multi-Agent Systems & AI:**
 
-  **Backend & Databases:**
   <p>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/></a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
+      <img src="/Images/langchain.svg" alt="Langchain" width="50" height="50"/>
+      <img src="/Images/langgraph-color.png" alt="Langgraph" width="50" height="50"/>
+      <img src="/Images/langsmith-color.png" alt="Langsmith" width="50" height="50"/>
+      <img src="/Images/agent-development-kit.png" alt="ADK" width="50" height="50"/>
+      <img src="/Images/mcp.png" alt="MCP" width="50" height="50"/>
+      <img src="/Images/a2a-logo-white.svg" alt="A2A" width="50" height="50"/>
+      <img src="/Images/n8n-color.png" alt="N8N" width="50" height="50"/>
+      <img src="/Images/gemini-color.png" alt="Gemini API" width="50" height="50"/>
+      <img src="/Images/openai.png" alt="OpenAi Platform" width="50" height="50"/>
+      <img src="/Images/huggingface-color.png" alt="Huggingface" width="50" height="50"/>
   </p>
 
-  **Tools & Platforms:**
+**Backend & Databases:**
+
   <p>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/></a>
-      <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="50" height="50"/></a>
+      <img src="/Images/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-100.png" alt="Django" width="50" height="50"/>
+      <img src="/Images/spring-boot.png" alt="Spring" width="50" height="50"/>
+      <img src="/Images/postgre.png" alt="PostgreSQL" width="50" height="50"/>
+      <img src="/Images/chroma.webp" alt="ChromaDB" width="50" height="50"/>
+  </p>
+
+**Tools & Platforms:**
+
+  <p>
+      <img src="/Images/icons8-git-96.png" alt="Git" width="50" height="50"/>
+      <img src="/Images/github.png" alt="GitHub" width="50" height="50"/>
+      <img src="/Images/visual-studio-code.png" alt="VS Code" width="50" height="50"/>
+      <img src="/Images/docker-mark-blue.svg" alt="Docker" width="50" height="50"/>
+      <img src="/Images/lmstudio.png" alt="LMStudio" width="50" height="50"/>
+      <img src="/Images/colab-color.png" alt="Colab" width="50" height="50"/>
+      <img src="/Images/NetBeans.png" alt="NetBeans" width="50" height="50"/>
   </p>
 </div>
 
@@ -156,29 +142,14 @@
   <h3>🔗 Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/daniel-rojas-grass-5a7b67257" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+      <img src="/Images/icons8-linkedin-100.png" alt="LinkedIn" height="40" width="40" />
     </a>
     <a href="https://github.com/DanRo3" target="_blank" rel="noreferrer"> <!-- Reemplaza DanRo3 con tu usuario si es diferente -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+      <img src="/Images/github.png" alt="GitHub" height="40" width="40" />
     </a>
-    <a href="https://x.com/TU_USUARIO_X" target="_blank" rel="noreferrer"> <!-- Reemplaza TU_USUARIO_X con tu usuario de X/Twitter -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="40" width="40" />
+    <a href="https://x.com/grass_rojas" target="_blank" rel="noreferrer"> <!-- Reemplaza TU_USUARIO_X con tu usuario de X/Twitter -->
+      <img src="/Images/x.png" alt="X" height="40" width="40" />
     </a>
-    <a href="mailto:drgrassnk445@gmail.com">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
-    </a>
-    <!-- Añade más según necesites, por ejemplo: -->
-    <!--
-    <a href="https://dev.to/TU_USUARIO_DEVTO" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/TU_USER_ID/TU_USERNAME" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
-    </a>
-    <a href="https://www.TU_SITIO_WEB.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Personal Website" height="40" width="40" />
-    </a>
-    -->
   </p>
   <p>Daniel Rojas Grass © 2024</p>
 </div>
