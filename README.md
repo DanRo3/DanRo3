@@ -67,7 +67,7 @@
       <img src="/Images/Next.js-900x0.png" alt="Next.js" width="50" height="50""/>
       <img src="/Images/tailwind.png" alt="TailwindCSS" width="50" height="50"/>
       <img src="/Images/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
-      <img src="/Images/ant desing.png" alt="Ant Design" width="50" height="50"/>
+      <img src="/Images/antdesing.png" alt="Ant Design" width="50" height="50"/>
       <img src="/Images/gradio-color.png" alt="Gradio" width="50" height="50"/>
   </p>
 
@@ -77,7 +77,7 @@
       <img src="/Images/langchain.svg" alt="Langchain" width="50" height="50"/>
       <img src="/Images/langgraph-color.png" alt="Langgraph" width="50" height="50"/>
       <img src="/Images/langsmith-color.png" alt="Langsmith" width="50" height="50"/>
-      <img src="/Images/agent-development-kit.png" alt="ADK" width="50" height="50"/>
+      <img src="/Images/ADK.png" alt="ADK" width="50" height="50"/>
       <img src="/Images/mcp.png" alt="MCP" width="50" height="50"/>
       <img src="/Images/a2a-logo-white.svg" alt="A2A" width="50" height="50"/>
       <img src="/Images/n8n-color.png" alt="N8N" width="50" height="50"/>
