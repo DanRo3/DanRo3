@@ -12,21 +12,24 @@
 
 <div align="center">
   <p>
-    Hi there! I'm DanRo, an Informatics Science Engineer passionate about building intelligent and interactive systems.
-    My core expertise lies in Frontend Development, and I've recently specialized as an <strong>Expert in Multi-Agent Systems (MAS)</strong>,
-    designing and implementing solutions where autonomous agents collaborate to tackle complex challenges.
-    I'm also advancing my skills in Data Science (🌱) to further enhance the intelligence and capabilities of these systems.
+    Hi there! I'm <strong>DanRo</strong>, an Informatics Science Engineer with a strong foundation in <strong>Frontend Development</strong> and a growing expertise in intelligent systems.
   </p>
   <p>
-    📫 How to reach me: <strong>drgrassnk445@gmail.com</strong>
+    I specialize in designing and implementing <strong>Multi-Agent Systems (MAS)</strong>, where autonomous agents collaborate to solve complex problems. I also build <strong>RAG (Retrieval-Augmented Generation)</strong> systems powered by Large Language Models (LLMs), combining structured and unstructured data to deliver smart, contextual responses.
+  </p>
+  <p>
+    Currently, I'm expanding my skills in <strong>Data Science</strong> to further enhance the analytical power of the systems I develop.
+  </p>
+  <p>
+    📫 Reach me at: <strong>danrodeveloper@outlook.com</strong>
   </p>
 </div>
+
 
 ---
 
 ## 🚀 Expertise: Multi-Agent Systems (MAS)
 
-I specialize in the design, development, and deployment of Multi-Agent Systems. My focus includes:
 *   Architecting collaborative and autonomous agent behaviors.
 *   Implementing communication and coordination protocols between agents.
 *   Leveraging Large Language Models (LLMs) and their APIs to enhance agent intelligence and interaction.
@@ -47,11 +50,11 @@ I specialize in the design, development, and deployment of Multi-Agent Systems. 
 
   **Lenguajes de Programación:**
   <p>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/></a>
-      <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
+      <img src="/Images/pyhton.png" alt="Python" width="50" height="50"/>
+      <img src="/Images/icons8-typescript-96.png" alt="TypeScript" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   </p>
 
   **Frontend Development:**
