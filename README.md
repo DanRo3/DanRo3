@@ -52,7 +52,7 @@
   <p>
       <img src="/Images/pyhton.png" alt="Python" width="50" height="50"/>
       <img src="/Images/icons8-typescript-96.png" alt="TypeScript" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+      <img src="/Images/javascript.jpeg" alt="JavaScript" width="50" height="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   </p>
