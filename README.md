@@ -151,5 +151,5 @@
       <img src="/Images/x.png" alt="X" height="40" width="40" />
     </a>
   </p>
-  <p>Daniel Rojas Grass © 2024</p>
+  <p>Daniel Rojas Grass © 2025</p>
 </div>
