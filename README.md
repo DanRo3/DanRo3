@@ -5,7 +5,7 @@
 <img src="/Images/line-neon.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lora&pause=1000&color=%236FDA44&size=32¢er=true&vCenter=true&width=600&lines=Hello+World!+I'm+DanRo+%F0%9F%91%8B;Informatic+Science+Engineer;Frontend+Dev+%26+Multi-Agent+Systems+Expert+%F0%9F%A4%96;Crafting+Intelligent+Autonomous+Solutions;Problem+Solver+%26+Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lora&pause=1000&color=%236FDA44&size=32¢er=true&vCenter=true&width=600&lines=Hello+World!+I'm+DanRo+%F0%9F%91%8B;Informatic+Science+Engineer;" alt="Typing SVG" />
 </div>
 
 <img src="/Images/line-neon.gif" width="100%">
