@@ -86,7 +86,7 @@
       <img src="/Images/icons8-django-a-high-level-python-web-framework-that-encourages-rapid-development-100.png" alt="Django" width="50" height="50"/>
       <img src="/Images/spring-boot.png" alt="Spring" width="50" height="50"/>
       <img src="/Images/postgre.png" alt="PostgreSQL" width="50" height="50"/>
-      <img src="/Images/chroma.webp" alt="ChromaDB" width="50" height="50"/>
+      <img src="/Images/chroma.png" alt="ChromaDB" width="50" height="50"/>
   </p>
 
 **Tools & Platforms:**
@@ -97,7 +97,7 @@
       <img src="/Images/visual-studio-code.png" alt="VS Code" width="50" height="50"/>
       <img src="/Images/docker-mark-blue.svg" alt="Docker" width="50" height="50"/>
       <img src="/Images/lmstudio.png" alt="LMStudio" width="50" height="50"/>
-      <img src="/Images/colab-color.png" alt="Colab" width="50" height="50"/>
+      <img src="/Images/colab.png" alt="Colab" width="50" height="50"/>
       <img src="/Images/NetBeans.png" alt="NetBeans" width="50" height="50"/>
   </p>
 </div>
