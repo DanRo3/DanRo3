@@ -61,7 +61,7 @@
       <img src="/Images/Next.js-900x0.png" alt="Next.js" width="50" height="50""/>
       <img src="/Images/tailwind.png" alt="TailwindCSS" width="50" height="50"/>
       <img src="/Images/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
-      <img src="/Images/a" alt="Ant Design" width="50" height="50"/>
+      <img src="/Images/andt.png" alt="Ant Design" width="50" height="50"/>
       <img src="/Images/gradio-color.png" alt="Gradio" width="50" height="50"/>
   </p>
 
